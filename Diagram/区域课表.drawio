@@ -1,0 +1,95 @@
+<mxfile host="Electron" modified="2024-07-04T01:58:18.313Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.6.4 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="0-pvlPjDJG_lecwyRXjs" version="24.6.4" type="device">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1088" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="Tbp2Mh88GZ4cZm0wykRA-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Tbp2Mh88GZ4cZm0wykRA-3" target="Tbp2Mh88GZ4cZm0wykRA-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tbp2Mh88GZ4cZm0wykRA-3" value="平台课程清单&lt;div&gt;导出全量课程&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=MiSans;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="294" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tbp2Mh88GZ4cZm0wykRA-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Tbp2Mh88GZ4cZm0wykRA-21" target="Tbp2Mh88GZ4cZm0wykRA-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tbp2Mh88GZ4cZm0wykRA-25" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="Tbp2Mh88GZ4cZm0wykRA-24">
+          <mxGeometry x="-0.3667" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" y="11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tbp2Mh88GZ4cZm0wykRA-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Tbp2Mh88GZ4cZm0wykRA-21" target="Tbp2Mh88GZ4cZm0wykRA-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tbp2Mh88GZ4cZm0wykRA-30" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="Tbp2Mh88GZ4cZm0wykRA-29">
+          <mxGeometry x="-0.2349" y="-1" relative="1" as="geometry">
+            <mxPoint x="6" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tbp2Mh88GZ4cZm0wykRA-21" value="该区域存在过往&lt;div&gt;学期&lt;span style=&quot;background-color: initial;&quot;&gt;数据&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=MiSans;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="282.5" y="360" width="143" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Tbp2Mh88GZ4cZm0wykRA-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Tbp2Mh88GZ4cZm0wykRA-23" target="Tbp2Mh88GZ4cZm0wykRA-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tbp2Mh88GZ4cZm0wykRA-23" value="根据过往学期需求单&lt;div&gt;选择课程与价格&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=MiSans;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="294" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tbp2Mh88GZ4cZm0wykRA-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Tbp2Mh88GZ4cZm0wykRA-26" target="Tbp2Mh88GZ4cZm0wykRA-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tbp2Mh88GZ4cZm0wykRA-26" value="形成初步的区域课表" style="whiteSpace=wrap;html=1;fontFamily=MiSans;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="294" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tbp2Mh88GZ4cZm0wykRA-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Tbp2Mh88GZ4cZm0wykRA-28" target="Tbp2Mh88GZ4cZm0wykRA-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tbp2Mh88GZ4cZm0wykRA-28" value="与销售确定区域&lt;div&gt;收费模式&lt;/div&gt;&lt;div&gt;（&lt;font color=&quot;#ff0000&quot;&gt;课时费/渠道&lt;/font&gt;）&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=MiSans;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tbp2Mh88GZ4cZm0wykRA-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Tbp2Mh88GZ4cZm0wykRA-31" target="Tbp2Mh88GZ4cZm0wykRA-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tbp2Mh88GZ4cZm0wykRA-31" value="根据市场接受度&lt;div&gt;与25%毛利选择课程&lt;/div&gt;&lt;div&gt;并进行定价&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=MiSans;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tbp2Mh88GZ4cZm0wykRA-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Tbp2Mh88GZ4cZm0wykRA-34" target="Tbp2Mh88GZ4cZm0wykRA-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tbp2Mh88GZ4cZm0wykRA-34" value="与销售TL评估&lt;div&gt;课表可行性&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=MiSans;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="294" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tbp2Mh88GZ4cZm0wykRA-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Tbp2Mh88GZ4cZm0wykRA-36" target="Tbp2Mh88GZ4cZm0wykRA-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tbp2Mh88GZ4cZm0wykRA-36" value="产出最终区域课表" style="whiteSpace=wrap;html=1;fontFamily=MiSans;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="294" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tbp2Mh88GZ4cZm0wykRA-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Tbp2Mh88GZ4cZm0wykRA-40" target="Tbp2Mh88GZ4cZm0wykRA-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tbp2Mh88GZ4cZm0wykRA-40" value="销售调整区域课表&lt;div&gt;并形成纸质课表BD&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=MiSans;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="294" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tbp2Mh88GZ4cZm0wykRA-42" value="&lt;font face=&quot;MiSans&quot;&gt;结束&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="294" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tbp2Mh88GZ4cZm0wykRA-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Tbp2Mh88GZ4cZm0wykRA-45" target="Tbp2Mh88GZ4cZm0wykRA-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tbp2Mh88GZ4cZm0wykRA-45" value="&lt;font face=&quot;MiSans&quot;&gt;开始&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="294" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tbp2Mh88GZ4cZm0wykRA-48" value="1. 线下Excel进行课程删改操作；&lt;div&gt;&lt;br&gt;&lt;div&gt;2. 平台课程清单内仅包含课程/材料包价格，无法覆盖特殊场景；&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;3. 过往学期数据需要额外导出数据；&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;size=19;align=left;fontFamily=MiSans;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="130" y="540" width="140" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Tbp2Mh88GZ4cZm0wykRA-49" value="1. 毛利25%设置困难，需要反复调试；&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. 特殊地区：不收课时费/不收材料费等逻辑需要人工手动调整；&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;size=19;align=left;fontFamily=MiSans;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="650" y="455" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Tbp2Mh88GZ4cZm0wykRA-55" value="1. 纸质课表无法展示具体的课程内容，包含图文介绍/课件等内容；&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;2. 销售无法获取当前区域内课程的师资储备情况；&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;3. BD完成后，填写需求单时提供的建议价格不是区域课表内容，导致需求单准确性存在问题；&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;size=19;align=left;fontFamily=MiSans;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="885" width="160" height="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
